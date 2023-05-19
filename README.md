@@ -4,7 +4,7 @@
 
 The main database. 
 
-Based on the [Apache Jena Framework](apache.jena.org).
+Based on the [Apache Jena Framework](https://jena.apache.org).
 
 Avaialble at: https://github.com/mxweigand/xapi_core
 
